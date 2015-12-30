@@ -4,7 +4,7 @@
   "description": "Finds all possible unique subsets of a superset.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "node_modules/.bin/eslint ./**/*.js --"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/patrickocoffeyo/unique-subsets/issues"
   },
-  "homepage": "https://github.com/patrickocoffeyo/unique-subsets#readme"
+  "homepage": "https://github.com/patrickocoffeyo/unique-subsets#readme",
+  "devDependencies": {
+    "eslint": "^1.10.3"
+  }
 }
