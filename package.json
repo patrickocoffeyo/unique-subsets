@@ -1,0 +1,19 @@
+{
+  "name": "unique-subsets",
+  "version": "0.0.1",
+  "description": "Finds all possible unique subsets of a superset.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickocoffeyo/unique-subsets.git"
+  },
+  "author": "= <patrickcoffey48@gmail.com> (=)",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/patrickocoffeyo/unique-subsets/issues"
+  },
+  "homepage": "https://github.com/patrickocoffeyo/unique-subsets#readme"
+}
