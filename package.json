@@ -1,6 +1,6 @@
 {
   "name": "unique-subsets",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Finds all possible unique subsets of a superset.",
   "main": "index.js",
   "scripts": {
